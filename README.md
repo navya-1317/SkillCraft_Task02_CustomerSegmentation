@@ -19,5 +19,6 @@ Group retail customers into distinct segments using **K-Means Clustering** based
   - Low income – Low spending
   - Average income – Average spending
 - This segmentation can help in designing personalized marketing campaigns and improving customer satisfaction.
+
 )
 )
